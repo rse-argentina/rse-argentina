@@ -47,17 +47,6 @@ Edita el archivo `recursos.qmd` y agrega el recurso en la sección correspondien
 - 📚 **[Nombre del recurso](https://link.com)** - Descripción breve
 ```
 
-## 🚀 Despliegue
-
-### GitHub Pages (Recomendado)
-
-1. En GitHub, ve a Settings → Pages
-2. Selecciona "Deploy from a branch"
-3. Elige la rama `main` y carpeta `/docs`
-4. Guarda y espera unos minutos
-
-El sitio estará en: `https://rse-argentina.github.io/`
-
 ## 📄 Licencia
 
 Este sitio está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Eres libre de compartir y adaptar el material, dando crédito apropiado.
