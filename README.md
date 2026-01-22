@@ -1,9 +1,9 @@
-## Hola, bienvenidos a la página oficial de RSE Argentina 👋
+## Hola 👋, bienvenidos a la página oficial de RSE Argentina 
 
-<!--
-**rse-argentina/rse-argentina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👯 RSE Argentina es una iniciativa comunitaria coordinada por un equipo de voluntarios comprometidos con visibilizar y fortalecer el rol de las personas encargadas de desarrollar software de investigación.
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
